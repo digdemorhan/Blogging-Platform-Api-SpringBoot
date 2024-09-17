@@ -54,8 +54,7 @@ This Blogging Platform API project is an API developed using Spring Boot and aim
   <li>Project Management with Maven</li>
 </ul>
 
-# Projenin Temel Dosya Yapısı
-![Ekran Alıntısı](https://github.com/user-attachments/assets/780fdedd-3bd0-4a9e-9234-a4f8c48f5005)
+# Basic File Structure of the Project
 <ul>
   <li>config: Contains the configuration class for object mapping (ModelMapperConfig).</li>
   <li>controller: Contains the BlogController class where API endpoints are defined.</li>
