@@ -1,6 +1,6 @@
 # BLOGGING-PLATFORM-API-USING-SPRINGBOOT
 # Projenin Ana Teması
-Bu Blogging Platform API projesi, Spring Boot kullanılarak geliştirilmiş bir API olup blog gönderilerini yönetmeyi amaçlar. Aşağıda proje kurulumu, dosya yapısı ve API uç noktalarına dair detaylı bilgileri bulabilirsiniz.
+Bu Blogging Platform API projesi, Spring Boot kullanılarak geliştirilmiş bir API olup blog gönderilerini yönetmeyi amaçlar. Aşağıda proje kurulumu, dosya yapısı ve API endpoint'lerine dair detaylı bilgileri bulabilirsiniz.
 # Proje Özeti
 <ul>
 <li>Blog Gönderisi Ekleme: Yeni blog gönderileri oluşturabilirsiniz.</li>
