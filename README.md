@@ -31,6 +31,9 @@ Bu Blogging Platform API projesi, Spring Boot kullanılarak geliştirilmiş bir 
   <li>service: İş mantığı ve servis katmanı sınıflarını içerir (BlogService, BlogServiceImpl).</li>
 </ul>
 
+# Not
+Projeye ait hazırladığım Spring Boot dokümantasyonuna göz atabilirsiniz.
+
 ----
 ----
 # Main Theme of the Project
@@ -63,3 +66,6 @@ This Blogging Platform API project is an API developed using Spring Boot and aim
   <li>repository: Contains the interface used for database operations (IBlogRepository).</li>
   <li>service: Includes business logic and service layer classes (BlogService, BlogServiceImpl).</li>
 </ul>
+
+# Note
+You can check the Spring Boot documentation I prepared for the project.
